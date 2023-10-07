@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "773680205511",
+    "project_id": "abashopdb",
+    "storage_bucket": "abashopdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773680205511:android:b29717e2489820dc81b8e2",
+        "android_client_info": {
+          "package_name": "com.firebase.abashop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYg1-isIJTSK1lE6IzbVKQrxRJHyP6-Xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
